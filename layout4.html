@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link href="poly.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <header class="col-md-12">
+            <div class="shopping-mall ">
+                <h1>Online shopping mall</h1>
+                <h5>The center point of the professional programing</h5>
+                <img src="IMG/header-object.png" class=""/>      
+            </div>
+        </Header>
+
+     <nav class="col-md-12">  
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarScroll">
+              <ul class="navbar-nav mr-auto my-2 my-lg-0  navbar-nav-scroll" style="max-height: 100px;">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#"> <i class="bi bi-house-door"></i> Home<span
+                            class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <i class="bi bi-list-ul"></i> Giới thiệu
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <i class="bi bi-telephone"></i>Liên hệ
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <i class="bi bi-envelope"></i> Góp ý
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <i class="bi bi-patch-question"></i>Hỏi đáp
+                    </a>
+                </li>
+              </ul>
+              <ul class="navbar-nav my-2 my-lg-0  ">
+                <li class="nav-item">
+                    <a class="nav-link"  href="#">Tiếng việt</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link "href="#">English</a>
+                  </li>
+              </ul>
+              
+            </div>
+          </nav>
+        </nav>
+
+        <div class="row">
+            <article class="row col-sm-9">
+                <div class="col-md-4 poly-prod">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                Labtop Macbook M1
+                            </h4>
+                        </div>
+                        <div class="panel-body">
+                            <img src="https://www.chs.hu/Apple_Macbook_Air_133_M1_CTO_8C_CPU7C_GPU16GB256GB_-_Space_grey-_HUN_KB_2020-i650729.jpg"/>
+                        </div>
+                        <div class="panel-footer">
+                            $25.000
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 poly-prod">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                Labtop Macbook M1
+                            </h4>
+                        </div>
+                        <div class="panel-body">
+                            <img src="https://www.chs.hu/Apple_Macbook_Air_133_M1_CTO_8C_CPU7C_GPU16GB256GB_-_Space_grey-_HUN_KB_2020-i650729.jpg"/>
+                        </div>
+                        <div class="panel-footer">
+                            $25.000
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 poly-prod">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                Labtop Macbook M1
+                            </h4>
+                        </div>
+                        <div class="panel-body">
+                            <img src="https://www.chs.hu/Apple_Macbook_Air_133_M1_CTO_8C_CPU7C_GPU16GB256GB_-_Space_grey-_HUN_KB_2020-i650729.jpg"/>
+                        </div>
+                        <div class="panel-footer">
+                            $25.000
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 poly-prod">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                Labtop Macbook M1
+                            </h4>
+                        </div>
+                        <div class="panel-body">
+                            <img src="https://www.chs.hu/Apple_Macbook_Air_133_M1_CTO_8C_CPU7C_GPU16GB256GB_-_Space_grey-_HUN_KB_2020-i650729.jpg"/>
+                        </div>
+                        <div class="panel-footer">
+                            $25.000
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 poly-prod">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                Labtop Macbook M1
+                            </h4>
+                        </div>
+                        <div class="panel-body">
+                            <img src="https://www.chs.hu/Apple_Macbook_Air_133_M1_CTO_8C_CPU7C_GPU16GB256GB_-_Space_grey-_HUN_KB_2020-i650729.jpg"/>
+                        </div>
+                        <div class="panel-footer">
+                            $25.000
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 poly-prod">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                Labtop Macbook M1
+                            </h4>
+                        </div>
+                        <div class="panel-body">
+                            <img src="https://www.chs.hu/Apple_Macbook_Air_133_M1_CTO_8C_CPU7C_GPU16GB256GB_-_Space_grey-_HUN_KB_2020-i650729.jpg"/>
+                        </div>
+                        <div class="panel-footer">
+                            $25.000
+                        </div>
+                    </div>
+                </div>
+
+            </article>
+
+            <aside class=" col-sm-3">
+                <div class="poly-cart ">
+                    <div class="panel panel-default ">
+                        <div class="p-3 border bg-light">
+                            <div class="panel-body">     
+                                                       
+                                <ul class="col-md-12"  style="text-align: center">     
+                                    <img class="col-md-4" src="https://cdn4.vectorstock.com/i/thumb-large/24/33/realistic-empty-supermarket-shopping-cart-vector-21042433.jpg">
+                                        <li>100 items</li>
+                                        <li>$260</li>
+                                        <li><a href="">View cart</a></li>           
+                                </ul>
+                            </div>
+                        </div>
+                            <div class="p-3 border bg-light">
+                                 <form method="post">
+                                    <input placeholder="keywords" class="form-control" />
+                                </form>
+                            </div>
+                        
+                       
+                        
+                        <div class="list-group">
+                            <div class="panel-heading">
+                                <strong class="bi bi-list list-group-item bg-secondary text-white "> Chủng loại</strong>
+                            </div>
+                            <button href="#" class="list-group-item">Điện Thoại Di Động</button>
+                            <button href="#" class="list-group-item">Máy Tính Sách Tay</button>
+                            <button href="#" class="list-group-item">Máy Tính Để Bàn</button>
+                            <button href="#" class="list-group-item">Tivi</button>
+                            <button href="#" class="list-group-item">Phụ Kiện</button>                           
+                        </div>
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+        <footer class="row">
+            <div class="panel panel-default">
+                <div class="panel-heading-footer text-center">
+                    <p>FPT Polytechnic &copy; 2017. All rights reserved.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
